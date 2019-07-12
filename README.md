@@ -1,3 +1,3 @@
 # Json_a_buffer
 Created with CodeSandbox
-Pass an object to buffer format
+Pass an object to buffer format from node js
