@@ -13,7 +13,7 @@ function App() {
   };
 
   const buf = Buffer.from(JSON.stringify(obj));
-  console.log("Rrsults", buf);
+  console.log("Results", buf);
   return (
     <div className="App">
       <h1>Example JSON a Buffer</h1>
